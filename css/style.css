@@ -36,7 +36,7 @@ body {
   margin-top: -50px;
 }
 #authors .card:hover {
-  background: #3292a6;
+  background: #907dc7;
   color: #fff;
 }
 #authors .fab {
@@ -54,4 +54,16 @@ body {
   .mb-resp {
     margin-bottom: 1rem;
   }
+}
+
+.subscribe-btn {
+  background: #845ef7;
+  color: #fff;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+.subscribe-btn:hover,
+.subscribe-btn:active {
+  background: #9775fa;
 }
